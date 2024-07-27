@@ -27,7 +27,7 @@ Mobile Preview
 ### Links
 
 - Solution URL: [Frontend Mentor Solution Page](https://www.frontendmentor.io/profile/Mnaqor66/solutions)
-- Live Site URL: [live site URL](https://your-live-site-url.com)
+- Live Site URL: [live site URL](https://incandescent-croquembouche-72d475.netlify.app/)
 
 ## My process
 
